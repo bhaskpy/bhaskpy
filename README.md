@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhaskpy
+- 👋 Hello World, I’m @bhaskpy
 - 👀 I’m interested in games and code
 - 🌱 I’m currently learning JS, PY
 - 💞️ I’m just sharing my stuff!
